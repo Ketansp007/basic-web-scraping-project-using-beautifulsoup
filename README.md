@@ -8,3 +8,7 @@ Bewkoof.com is an online clothing and lifestyle brand, and this web scraping pro
 
 ## URL: 
 https://www.bewakoof.com
+
+## Result:
+![image](https://github.com/Ketansp007/basic-web-scraping-project-using-beautifulsoup/assets/147323312/c799c88a-2061-47ee-9817-e277473b5bf6)
+
